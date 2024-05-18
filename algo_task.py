@@ -1,7 +1,7 @@
 # Input:   xallar = [5,3,4,2,1]
 # Output:  yerlər=['1-ci','3-cu','2-ci','4-cu','5-ci']
 
-# 1)En boyuyu tapiriq ve onu 1-e beraber edirik
+# 1)En boyuyu tapiriq ve ...
 # 2)Sonra digerleri max-dan ne qeder kicikdirse o ferqi basqa deyisene beraber edirik k=5-3=2, k=5-4=1
 # 3)Ve bu deyisenin qiymetini eyni loopun icinde evvelki 1-in ustune gelirik   1+2=3, 1+1=2
 
